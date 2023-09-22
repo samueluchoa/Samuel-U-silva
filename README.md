@@ -1,6 +1,5 @@
 ## Oiii eu sou o Samuel Uchoa, estudante na área de TI
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <div style="display: inline_block"><br>
