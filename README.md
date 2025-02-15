@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Samuel Uchoa 🖐️
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samueluchoa&show_icons=true&theme=omni)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samueluchoa&showicons=true&theme=omni)
 
 [![Tecnologias com estudo em andamentoe](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelucjoa&layout=compact)](https://github.com/samueluchoa/github-readme-stats)
 <div style="display: inline_block"><br>
