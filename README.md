@@ -4,7 +4,7 @@
 
 ## Tecnologias com estudo em andamento
 
-[![Tecnologias com estudo em andamentoe](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelucjoa&layout=compact)](https://github.com/samueluchoa/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelucjoa&layout=compact)](https://github.com/samueluchoa/github-readme-stats)
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Samuel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
