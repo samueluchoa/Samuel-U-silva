@@ -1,4 +1,4 @@
-## Oiii eu sou o Samuel Uchoa, estudante na área de TI
+## Oiii eu sou o Samuel Uchoa
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel-U-Silva&show_icons=true&theme=omni)
 
