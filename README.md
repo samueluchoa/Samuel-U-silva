@@ -36,7 +36,7 @@
 <br>
 <div>
   <a href="https://github.com/samueluchoa">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=samueluchoa&show_icons=true&theme=radical"/>
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=samueluchoa&show_icons=true&theme=dracula"/>
     <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueluchoa&hide_progress=true&theme=dracula"/>
 </div>
 
